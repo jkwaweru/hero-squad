@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="created squadForm.hbs">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/style.css" afterDir="false" />
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="edited main.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684685598857</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created style.css">
+      <created>1684686197457</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684686197457</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edited main.java">
+      <created>1684686642168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684686642168</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +132,8 @@
     <MESSAGE value="created public, templates" />
     <MESSAGE value="created heroForm.hbs" />
     <MESSAGE value="created squadForm.hbs" />
-    <option name="LAST_COMMIT_MESSAGE" value="created squadForm.hbs" />
+    <MESSAGE value="created style.css" />
+    <MESSAGE value="edited main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited main.java" />
   </component>
 </project>
