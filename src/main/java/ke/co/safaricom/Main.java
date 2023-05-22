@@ -11,7 +11,7 @@ import java.util.HashMap;
 
 import java.util.Map;
 
-public bastract class Main {
+public abstract class Main {
 
     public static void main(String[] args) {
 
@@ -67,6 +67,7 @@ public bastract class Main {
 
         });
 
+        //HERO TO SQUAD ASSIGNMENT FORM
         get("/assign-squad/:squad", (req,res) -> {
 
             String squad =  req.params("squad");
