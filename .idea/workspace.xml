@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="edited README.md file">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/HeroDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/SquadDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/db/database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/full-squad.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/landing-page.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="added templates">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/deep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/iStock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/race.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/robboz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/skate.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/hero.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add-hero.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/heroForm.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add-squad.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/squad.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/all.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/squadForm.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/assign-squad.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/all.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/all.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/AKAI/Desktop/SOFTWARE ENGINEERING/JAVA/hero-squad/src/main/resources/public/images",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AKAI\Desktop\SOFTWARE ENGINEERING\JAVA\hero-squad\src\main\resources\public\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ke.co.safaricom.Main" />
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684687420237</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added templates">
+      <created>1684773848540</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684773848540</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +172,7 @@
     <MESSAGE value="edited main.java" />
     <MESSAGE value="created README.md file" />
     <MESSAGE value="edited README.md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited README.md file" />
+    <MESSAGE value="added templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="added templates" />
   </component>
 </project>
