@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="added test files">
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="edited main.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684775954030</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="edited main.java">
+      <created>1684781815406</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684781815406</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,8 +202,8 @@
     <MESSAGE value="edited README.md file" />
     <MESSAGE value="added templates" />
     <MESSAGE value="added images" />
-    <MESSAGE value="edited main.java" />
     <MESSAGE value="added test files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test files" />
+    <MESSAGE value="edited main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited main.java" />
   </component>
 </project>
