@@ -1,5 +1,7 @@
 package ke.co.safaricom;
 
+import ke.co.safaricom.dao.HeroDao;
+import ke.co.safaricom.dao.SquadDao;
 import ke.co.safaricom.models.Hero;
 import ke.co.safaricom.models.Squad;
 import spark.ModelAndView;
@@ -9,7 +11,7 @@ import java.util.HashMap;
 
 import java.util.Map;
 
-public abstract class Main {
+public class Main {
 
     public static void main(String[] args) {
 
