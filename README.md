@@ -128,9 +128,10 @@ There are no known bugs in this project.
 - IntelliJ IDEA
 - Bootstraps
 - CSS & HTML (handlebars)
-- gradle
-- jUnit
+- Gradle
+- JUnit
 - Java spark
+- Groovy
 
 ## Support and Contact Details
 
