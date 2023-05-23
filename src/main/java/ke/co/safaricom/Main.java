@@ -11,6 +11,8 @@ import java.util.HashMap;
 
 import java.util.Map;
 
+import static spark.Spark.*;
+
 public abstract class Main {
 
     public static void main(String[] args) {

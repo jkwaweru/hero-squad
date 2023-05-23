@@ -7,7 +7,7 @@ public class database {
 
             "jdbc:postgresql://localhost:5432/hero_squad",
             "postgres",
-            "javaDB"
+            "IloveJesus2023"
     );
     public static Sql2o getConnect() { return connection; }
 }
