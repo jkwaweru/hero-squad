@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="Added the README.md file and details">
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="Adited the README.md file and details">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -244,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684869135334</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Adited the README.md file and details">
+      <created>1684869451517</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684869451517</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,6 +270,7 @@
     <MESSAGE value="edited main.java" />
     <MESSAGE value="edited layout" />
     <MESSAGE value="Added the README.md file and details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the README.md file and details" />
+    <MESSAGE value="Adited the README.md file and details" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adited the README.md file and details" />
   </component>
 </project>

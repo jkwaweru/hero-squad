@@ -37,7 +37,7 @@ Overall, Hero Squad games provide an immersive and engaging experience, allowing
 
 ## BDD (Behavior-Driven Development)
 
-**Feature: Recruit Heroes**
+## Feature: Recruit Heroes
 
 Scenario: Successfully recruit a hero into the squad
 Given the player is logged in and on the recruit page
@@ -51,7 +51,7 @@ And the hero is already in the squad roster
 When the player tries to recruit the same hero again
 Then the player receives an error message indicating that the hero is already recruited
 
-**Feature: Squad Formation**
+## Feature: Squad Formation
 
 Scenario: Assign heroes to the squad
 Given the player is logged in and on the squad formation page
@@ -60,13 +60,13 @@ And assigns them to the squad slots
 Then the heroes are successfully assigned to the squad
 And the player can see the updated squad formation
 
-Scenario: Squad size restriction
+## Scenario: Squad size restriction
 Given the player is logged in and on the squad formation page
 And the squad has reached the maximum size limit
 When the player tries to assign another hero to the squad
 Then the player receives an error message indicating that the squad is already full
 
-**Feature: Missions and Challenges**
+## Feature: Missions and Challenges
 
 Scenario: Complete a mission successfully
 Given the player is on the mission page
@@ -76,7 +76,7 @@ Then the player receives mission details and objectives
 And the squad engages in battles and completes the objectives
 And the player receives rewards upon successful completion
 
-Scenario: Fail a mission
+## Scenario: Fail a mission
 Given the player is on the mission page
 And the squad is not adequately prepared for the mission
 When the player initiates the mission
@@ -112,7 +112,7 @@ Access the application: Open your web browser and enter the following URL: http:
 
 That's it! You have successfully set up and installed the Hero Squad game on your local machine. You can now start recruiting heroes, forming squads, and playing the game.
 
-**To access the code for learning:**
+## To access the code for learning:
 
 1. Clone the repository: `git clone https://github.com/AMANIKAI/hero-squad.git
 2. Open the cloned code on IntelliJ IDEA.
@@ -137,7 +137,7 @@ There are no known bugs in this project.
 
 If you need any assistance, have questions, ideas, or concerns, kindly contact me through email: amanikai@gmail.com. You can also make a contribution to the code or seek assistance for the app/project.
 
-**GitHub URL Link**
+## GitHub URL Link
 
 To view the project, visit the GitHub repository:(https://github.com/AMANIKAI/hero-squad.git)
 
@@ -145,4 +145,4 @@ To view the project, visit the GitHub repository:(https://github.com/AMANIKAI/he
 
 The project is licensed under GPL (General Public License).
 
-Copyright (c) 2023 **Amani Kai**
+## Copyright (c) 2023 Amani Kai
