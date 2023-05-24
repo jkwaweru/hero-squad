@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="Adited the README.md file and details">
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="Edided landing page nav-bar bg colour to primary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684869451517</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Edided landing page nav-bar bg colour to primary">
+      <created>1684949660432</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684949660432</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,6 +277,7 @@
     <MESSAGE value="edited layout" />
     <MESSAGE value="Added the README.md file and details" />
     <MESSAGE value="Adited the README.md file and details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adited the README.md file and details" />
+    <MESSAGE value="Edided landing page nav-bar bg colour to primary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edided landing page nav-bar bg colour to primary" />
   </component>
 </project>
