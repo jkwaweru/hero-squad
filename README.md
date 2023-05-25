@@ -37,6 +37,28 @@ Overall, Hero Squad games provide an immersive and engaging experience, allowing
 
 ## BDD (Behavior-Driven Development)
 
+## CREATING A HERO
+To add a hero, on the homepage select add hero.
+A form will be displayed with the hero details to be added.
+Enter hero name and the rest of the details, age, weakness etc
+Click on the submit button for the hero to be added.
+Once added, the hero will be displayed on the home page, but will not come with an identified squad
+
+## CREATING A SQUAD
+To create a squad, on the home page click on add squad.
+A form will be displayed
+On the form displayed, enter squad name, cause and the size.
+Click on submit button for the hero to be created.
+
+## ASSIGNING A HERO TO A SQUAD
+When a hero is created, he doesn't come with a squad pre-defined.
+Likewise, when a squad is created it comes without any heroes.
+So, to assign a hero to a squad, click on the already created squad.
+A form will be displayed
+On this form the squad name is already captured(the squad you clicked)
+A dropdown will appear with a list of all available heroes
+Select the hero to be assigned into the squad and submit
+
 ## Feature: Recruit Heroes
 
 Scenario: Successfully recruit a hero into the squad
