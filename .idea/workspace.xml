@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="Edided landing page nav-bar bg colour to primary">
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="psql">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684949660432</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="psql">
+      <created>1684956495178</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684956495178</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -278,6 +285,7 @@
     <MESSAGE value="Added the README.md file and details" />
     <MESSAGE value="Adited the README.md file and details" />
     <MESSAGE value="Edided landing page nav-bar bg colour to primary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edided landing page nav-bar bg colour to primary" />
+    <MESSAGE value="psql" />
+    <option name="LAST_COMMIT_MESSAGE" value="psql" />
   </component>
 </project>
