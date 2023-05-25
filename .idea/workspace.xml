@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="psql">
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="edited the readme file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -265,7 +265,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684956495178</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="psql">
+      <created>1685039355421</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1685039355421</updated>
+    </task>
+    <task id="LOCAL-00028" summary="edited the readme file">
+      <created>1685040228269</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1685040228269</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,6 +300,7 @@
     <MESSAGE value="Adited the README.md file and details" />
     <MESSAGE value="Edided landing page nav-bar bg colour to primary" />
     <MESSAGE value="psql" />
-    <option name="LAST_COMMIT_MESSAGE" value="psql" />
+    <MESSAGE value="edited the readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited the readme file" />
   </component>
 </project>
