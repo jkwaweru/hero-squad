@@ -159,4 +159,4 @@ To view the project, visit the GitHub repository:(https://github.com/AMANIKAI/he
 
 The project is licensed under GPL (General Public License).
 
-## Copyright (c) 2023 Amani Kai
+## Copyright &#169; 2023 Amani Kai
