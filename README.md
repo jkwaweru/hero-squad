@@ -10,7 +10,7 @@ By Amani Mwasambu
 
 #### This project is my independent project (IP) for java spark week 2
 
-Hero Squad is a project that allows users who interact with it to create heroes and squads/alliances that contain a particular number of heroes such as Marvel's Avengers or DC's Justice League. Heroes can be affiliated with only 1 squad at a single time, therefore if the hero was to switch to another group, their name should not be present in the previous squad that they were in
+Hero Squad is a project that allows users who interact with it to create heroes and squads/alliances that contain a particular number of heroes. Heroes can be affiliated with only 1 squad at a single time, therefore if the hero was to switch to another group, their name should not be present in the previous squad that they were in
 
 A Hero Squad game is an interactive game where players have the opportunity to recruit and assemble a team of superheroes to combat various challenges and enemies. The game revolves around the concept of creating a well-balanced team of superheroes, each with unique abilities and weaknesses, to overcome obstacles and accomplish missions.
 
@@ -37,20 +37,20 @@ Overall, Hero Squad games provide an immersive and engaging experience, allowing
 
 ## BDD (Behavior-Driven Development)
 
-## CREATING A HERO
+#### CREATING A HERO
 To add a hero, on the homepage select add hero.
 A form will be displayed with the hero details to be added.
 Enter hero name and the rest of the details, age, weakness etc
 Click on the submit button for the hero to be added.
 Once added, the hero will be displayed on the home page, but will not come with an identified squad
 
-## CREATING A SQUAD
+#### CREATING A SQUAD
 To create a squad, on the home page click on add squad.
 A form will be displayed
 On the form displayed, enter squad name, cause and the size.
 Click on submit button for the hero to be created.
 
-## ASSIGNING A HERO TO A SQUAD
+#### ASSIGNING A HERO TO A SQUAD
 When a hero is created, he doesn't come with a squad pre-defined.
 Likewise, when a squad is created it comes without any heroes.
 So, to assign a hero to a squad, click on the already created squad.
@@ -59,7 +59,7 @@ On this form the squad name is already captured(the squad you clicked)
 A dropdown will appear with a list of all available heroes
 Select the hero to be assigned into the squad and submit
 
-## Feature: Recruit Heroes
+#### Feature: Recruit Heroes
 
 Scenario: Successfully recruit a hero into the squad
 Given the player is logged in and on the recruit page
@@ -73,7 +73,7 @@ And the hero is already in the squad roster
 When the player tries to recruit the same hero again
 Then the player receives an error message indicating that the hero is already recruited
 
-## Feature: Squad Formation
+#### Feature: Squad Formation
 
 Scenario: Assign heroes to the squad
 Given the player is logged in and on the squad formation page
@@ -82,13 +82,13 @@ And assigns them to the squad slots
 Then the heroes are successfully assigned to the squad
 And the player can see the updated squad formation
 
-## Scenario: Squad size restriction
+#### Scenario: Squad size restriction
 Given the player is logged in and on the squad formation page
 And the squad has reached the maximum size limit
 When the player tries to assign another hero to the squad
 Then the player receives an error message indicating that the squad is already full
 
-## Feature: Missions and Challenges
+#### Feature: Missions and Challenges
 
 Scenario: Complete a mission successfully
 Given the player is on the mission page
@@ -97,14 +97,6 @@ When the player initiates the mission
 Then the player receives mission details and objectives
 And the squad engages in battles and completes the objectives
 And the player receives rewards upon successful completion
-
-## Scenario: Fail a mission
-Given the player is on the mission page
-And the squad is not adequately prepared for the mission
-When the player initiates the mission
-Then the player receives mission details and objectives
-And the squad struggles in battles and fails to complete the objectives
-And the player receives a failure message
 
 ## Setup/Installation Requirements
 
