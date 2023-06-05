@@ -88,16 +88,6 @@ And the squad has reached the maximum size limit
 When the player tries to assign another hero to the squad
 Then the player receives an error message indicating that the squad is already full
 
-#### Feature: Missions and Challenges
-
-Scenario: Complete a mission successfully
-Given the player is on the mission page
-And the squad is prepared for the mission
-When the player initiates the mission
-Then the player receives mission details and objectives
-And the squad engages in battles and completes the objectives
-And the player receives rewards upon successful completion
-
 ## Setup/Installation Requirements
 
 To run the Hero Squad game on your local machine, you need to have the following prerequisites installed:

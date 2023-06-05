@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="edited the readme file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="edited the readme added registered symbol" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -287,7 +284,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685041116946</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="edited the readme file">
+      <created>1685953589728</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1685953589728</updated>
+    </task>
+    <task id="LOCAL-00031" summary="edited the readme added copyright symbol">
+      <created>1685953964146</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1685953964146</updated>
+    </task>
+    <task id="LOCAL-00032" summary="edited the readme added registered symbol">
+      <created>1685954034195</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1685954034195</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -309,6 +327,8 @@
     <MESSAGE value="Edided landing page nav-bar bg colour to primary" />
     <MESSAGE value="psql" />
     <MESSAGE value="edited the readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited the readme file" />
+    <MESSAGE value="edited the readme added copyright symbol" />
+    <MESSAGE value="edited the readme added registered symbol" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited the readme added registered symbol" />
   </component>
 </project>
