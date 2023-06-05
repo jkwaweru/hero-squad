@@ -10,7 +10,7 @@ By Amani Mwasambu
 
 #### This project is my independent project (IP) for java spark week 2
 
-Hero Squad is a project that allows users who interact with it to create heroes and squads/alliances that contain a particular number of heroes such as Marvel's Avengers or DC's Justice League. Heroes can be affiliated with only 1 squad at a single time, therefore if the hero was to switch to another group, their name should not be present in the previous squad that they were in
+Hero Squad is a project that allows users who interact with it to create heroes and squads/alliances that contain a particular number of heroes. Heroes can be affiliated with only 1 squad at a single time, therefore if the hero was to switch to another group, their name should not be present in the previous squad that they were in
 
 A Hero Squad game is an interactive game where players have the opportunity to recruit and assemble a team of superheroes to combat various challenges and enemies. The game revolves around the concept of creating a well-balanced team of superheroes, each with unique abilities and weaknesses, to overcome obstacles and accomplish missions.
 
