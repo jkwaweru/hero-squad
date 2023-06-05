@@ -160,3 +160,6 @@ To view the project, visit the GitHub repository:(https://github.com/AMANIKAI/he
 The project is licensed under GPL (General Public License).
 
 ## Copyright &#169; 2023 Amani Kai
+
+## Amani Kai Mwasambu &#174;
+
