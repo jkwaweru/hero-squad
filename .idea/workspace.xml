@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="edited the readme added registered symbol" />
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="edited the readme added registered symbol">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ke/co/safaricom/models/HeroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ke/co/safaricom/models/SquadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +56,7 @@
       <recent name="C:\Users\AKAI\Desktop\SOFTWARE ENGINEERING\JAVA\hero-squad\src\main\resources\public\images" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.SquadTest.getSize">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ke.co.safaricom.Main" />
       <module name="hero-squad.main" />
@@ -66,8 +70,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquadTest.getSize" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ke.co.safaricom.models.SquadTest.getSize&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SquadTest.getSize" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -305,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685954034195</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="edited the readme added registered symbol">
+      <created>1685954147327</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1685954147327</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
