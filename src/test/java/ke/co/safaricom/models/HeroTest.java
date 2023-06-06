@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class HeroTest {
 
-    Hero testHero = new Hero("Hero Name", 99,"Some Power",10, "Some Weakness", 1, "Gospel");
+    Hero testHero = new Hero("Hero Name", 62,"Some Power",9, "Some Weakness", 2, "Gospel");
 
     @Test
     @DisplayName(value = "HEROES NAME")
@@ -18,7 +18,7 @@ class HeroTest {
     @Test
     @DisplayName(value = "AGE TEST")
     void getAge() {
-        assertEquals(99, testHero.getAge());
+        assertEquals(62, testHero.getAge());
     }
 
     @Test
@@ -30,7 +30,7 @@ class HeroTest {
     @Test
     @DisplayName(value = "POWER SCORE TEST")
     void getPower_score() {
-        assertEquals(10,testHero.getPower_score());
+        assertEquals(9,testHero.getPower_score());
     }
 
     @Test
@@ -42,7 +42,7 @@ class HeroTest {
     @Test
     @DisplayName(value = "WEAKNESS SCORE TEST")
     void getWeakness_score() {
-        assertEquals(1,testHero.getWeakness_score());
+        assertEquals(2,testHero.getWeakness_score());
     }
 
     @Test
