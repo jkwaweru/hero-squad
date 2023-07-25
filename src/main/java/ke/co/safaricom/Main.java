@@ -20,7 +20,7 @@ public abstract class Main {
         staticFileLocation("/public");
         HandlebarsTemplateEngine views = new HandlebarsTemplateEngine();
 
-        //THE LANDING PAGE
+        //LANDING PAGE
         get("/", (req,res) -> new ModelAndView(new HashMap<>(),"landing-page.hbs"), views );
 
         //HOME PAGE
@@ -33,10 +33,10 @@ public abstract class Main {
 
         },views);
 
-        //ADDING HERO FORM PAGE
+        //TO ADD A HERO FORM PAGE
         get("/add-hero", (req,res) -> new ModelAndView(new HashMap<>(),"add-hero.hbs"), views );
 
-        //UPDATING HERO DETAILS TO DATABASE
+        //TO UPDATE HERO DETAILS TO DATABASE
         post("/add-hero", (req,res)-> {
 
             String hero = req.queryParams("hero");
@@ -53,10 +53,10 @@ public abstract class Main {
             return null ;
         });
 
-        //ADDING A SQUAD FORM
+        //TO ADD A SQUAD FORM
         get("/add-squad", (req,res) -> new ModelAndView(new HashMap<>(),"add-squad.hbs"), views );
 
-        //SENDING HERO DETAILS TO DATABASE
+        //TO SEND SQUAD DETAILS TO DATABASE
         post("/add-squad", (req,res)-> {
 
             String squad = req.queryParams("squad");
@@ -69,7 +69,7 @@ public abstract class Main {
 
         });
 
-        //ASSIGN HERO TO SQUAD ASSIGNMENT FORM
+        //ASSIGNING A HERO TO SQUAD ASSIGNMENT FORM
         get("/assign-squad/:squad", (req,res) -> {
 
             String squad =  req.params("squad");
@@ -83,7 +83,7 @@ public abstract class Main {
             return new ModelAndView(combinedList, "assign-squad.hbs");
         },views);
 
-        //TO ASSIGN A HER0 TO AN EXISTING SQUAD
+        //ASSIGNING A HER0 TO AN EXISTING SQUAD
         post("/assign-squad/:squad", (req,res) -> {
 
             String hero = req.queryParams("hero");
@@ -94,7 +94,7 @@ public abstract class Main {
 
         },views);
 
-        //TO DELETE A HERO FROM THE HERO LIST
+        //ADDING A HERO FROM THE HERO LIST
         get("/delete-hero/:hero", (req,res)-> {
 
             String name = req.params(":hero");
@@ -104,7 +104,7 @@ public abstract class Main {
 
         },views);
 
-        //TO DELETE A SQUAD FROM THE SQUAD LIST
+        //DELETING A SQUAD FROM THE SQUAD LIST
         get("/delete-squad/:squad", (req,res)-> {
 
             String name = req.params(":squad");
@@ -114,7 +114,7 @@ public abstract class Main {
 
         },views);
 
-        //CREATING A PAGE WITH A LIST OF ALL HEROES AND SQUADS
+        //TO CREATE A PAGE WITH A LIST OF ALL HEROES AND SQUADS
         get("/all", (req,res) -> {
 
             Map<String, Object> combinedList = new HashMap<>();
@@ -124,7 +124,7 @@ public abstract class Main {
 
         },views);
 
-        //DISPLAY FULL SQUAD PAGE
+        //DISPLAYING FULL SQUAD PAGE
         get("/full-squad", (req,res) -> new ModelAndView(new HashMap<>(),"full-squad.hbs"), views );
 
     }

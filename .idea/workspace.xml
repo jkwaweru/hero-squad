@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="Added HeroTest class">
+    <list default="true" id="51ee930a-d2b7-44ae-82e4-6b3e0b7fbcf1" name="Changes" comment="Edited Hero class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ke/co/safaricom/models/HeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ke/co/safaricom/models/HeroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ke/co/safaricom/models/SquadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ke/co/safaricom/models/SquadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/HeroDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/HeroDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/models/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/models/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/models/Squad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/models/Squad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
       <recent name="C:\Users\AKAI\Desktop\SOFTWARE ENGINEERING\JAVA\hero-squad\src\main\resources\public\images" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.HeroTest.getPower">
     <configuration name="HeroTest.getPower" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -189,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.HeroTest.getPower" />
         <item itemvalue="Gradle.HeroTest.getSquad" />
         <item itemvalue="Gradle.HeroTest.getWeakness_score" />
         <item itemvalue="Gradle.HeroTest.getWeakness" />
         <item itemvalue="Gradle.HeroTest.getPower_score" />
-        <item itemvalue="Gradle.HeroTest.getPower" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686070053065</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Edite HeroTest class">
+      <created>1686070875510</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1686070875510</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -484,6 +493,8 @@
     <MESSAGE value="edited the readme added registered symbol" />
     <MESSAGE value="Added SquadTest class" />
     <MESSAGE value="Added HeroTest class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HeroTest class" />
+    <MESSAGE value="Edite HeroTest class" />
+    <MESSAGE value="Edited Hero class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited Hero class" />
   </component>
 </project>
