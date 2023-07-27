@@ -103,7 +103,7 @@ Once you have the necessary prerequisites installed, follow these steps to set u
 Clone the repository: Open your terminal or Git bash and navigate to the directory where you want to clone the project. Then, run the following command:
 
 Go to git bash and Copy code:
-git clone https://github.com/AMANIKAI/hero-squad.git
+git clone (https://github.com/jkwaweru/hero-squad.git)
 This will create a local copy of the project on your machine.
 
 Open the project in IntelliJ IDEA: Launch IntelliJ IDEA and select "Open" from the File menu. Navigate to the directory where you cloned the project and select it. IntelliJ IDEA will load the project.
@@ -118,7 +118,7 @@ That's it! You have successfully set up and installed the Hero Squad game on you
 
 ## To access the code for learning:
 
-1. Clone the repository: `git clone https://github.com/AMANIKAI/hero-squad.git
+1. Clone the repository: `git clone https://github.com/jkwaweru/hero-squad.git
 2. Open the cloned code on IntelliJ IDEA.
 3. Run the code to view the output.
 
@@ -139,17 +139,17 @@ There are no known bugs in this project.
 
 ## Support and Contact Details
 
-If you need any assistance, have questions, ideas, or concerns, kindly contact me through email: amanikai@gmail.com. You can also make a contribution to the code or seek assistance for the app/project.
+If you need any assistance, have questions, ideas, or concerns, kindly contact me through email: jkwaweru47@gmail.com. You can also make a contribution to the code or seek assistance for the app/project.
 
 ## GitHub URL Link
 
-To view the project, visit the GitHub repository:(https://github.com/AMANIKAI/hero-squad.git)
+To view the project, visit the GitHub repository:(https://github.com/jkwaweru/hero-squad.git)
 
 ## License
 
 The project is licensed under GPL (General Public License).
 
-## Copyright &#169; 2023 Amani Kai
+## Copyright &#169; 2023 John Kamau
 
-## Amani Kai Mwasambu &#174;
+## John kamau waweru &#174;
 
