@@ -2,9 +2,9 @@
 
 This project is about Hero Squad Java Program App.
 
-Version Date: 23th May 2023
+Version Date: 27th July 2023
 
-By Amani Mwasambu
+By John Kamamu
 
 ## Description
 
